@@ -1,7 +1,11 @@
-id, employment, age
-1, 500, 30
-2, 100, 15
-3, 80, 2
-4, 20, 10 
-5, 5, 4
-6, 2, 1
+employment, age, industry
+500, 30, Shoe Manufacturing
+100, 15, Shoe Manufacturing
+80, 2, Golf Supplies Manufacturing
+20, 10, Golf Supplies Manufacturing
+5, 4, Golf Supplies Manufacturing
+2, 1, Restaurant
+3, 4, Restaurant
+2, 11, Restaurant
+1, 10, Restaurant
+10, 4, Restaurant
