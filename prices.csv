@@ -1,8 +1,8 @@
 Company, Item Description, Month, Year, Price
 1, Yellow Tennis Shoes, January, 2020, 120
-1, Tennis Shoes, February, 2020, 130
+2, Tennis Shoes, February, 2020, 130
 1, Red Tennis Shoes, February, 2020, 50
-2, Golf Clubs (Putter), January, 2020, 80
-2, Putter, February, 2020, 90
-3, Gala Apples (Dozen), January, 2020, 5 
-3, Gala Apples (lbs), February, 2020, 2
+3, Golf Clubs (Putter), January, 2020, 80
+3, Putter, February, 2020, 90
+4, Gala Apples (Dozen), January, 2020, 5 
+4, Gala Apples (lbs), February, 2020, 2
